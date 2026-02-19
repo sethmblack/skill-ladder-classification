@@ -3,8 +3,8 @@ name: ladder-classification
 description: Classify any question about data or relationships as belonging to Rung 1 (Association), Rung 2 (Intervention), or Rung 3 (Counterfactual) of the Ladder of Causation. This determines what type of an...
 license: MIT
 metadata:
-  version: 1.0.4353
   author: sethmblack
+  version: 1.0.4354
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - ladder-classification
